@@ -1,0 +1,307 @@
+Id;scenario;Contextual Feature 1;Contextual Feature 2;Contextual Feature 3;Contextual Feature 4;Contextual Feature 5
+K_1;Scenario;Actor;Patient;Consent;Level of sickness;Setting
+K_1_1;A doctor performs euthanasia on a terminally ill adult with their explicit consent in a hospital.;Doctor;Terminal adult;Explicit;Terminal;Hospital
+K_1_2;A nurse secretly administers euthanasia to an elderly patient without consent at home.;Nurse;Elderly;No consent;Severe;Home
+K_1_3;A volunteer euthanizes a child suffering terminal illness after indirect signs of consent in a crisis zone.;Volunteer;Child;Indirect;Terminal;Crisis
+K_1_4;A family member performs euthanasia on a comatose elderly relative following a court-approved directive in a hospital.;Family;Elderly;Court-approved;Severe;Hospital
+K_1_5;A doctor administers euthanasia to a terminal adult without consulting anyone in a prison.;Doctor;Terminal adult;No consent;Terminal;Prison
+K_1_6;A nurse performs euthanasia on a severely ill child after explicit consent at home.;Nurse;Child;Explicit;Severe;Home
+K_1_7;A volunteer euthanizes a terminally ill elderly person following indirect consent in a crisis zone.;Volunteer;Elderly;Indirect;Terminal;Crisis
+K_1_8;A doctor honors a court-approved euthanasia request for a comatose adult in a hospital.;Doctor;Comatose;Court-approved;Severe;Hospital
+K_1_9;A family member performs euthanasia on a terminally ill child with explicit consent at home.;Family;Child;Explicit;Terminal;Home
+K_1_10;A nurse administers euthanasia to an elderly patient without consent in a prison.;Nurse;Elderly;No consent;Severe;Prison
+K_1_11;A doctor performs euthanasia on a terminal adult after indirect consent in a hospital.;Doctor;Terminal adult;Indirect;Terminal;Hospital
+K_1_12;A volunteer euthanizes a severely sick child without explicit consent in a crisis zone.;Volunteer;Child;No consent;Severe;Crisis
+K_1_13;A family member honors a court-approved euthanasia request for an elderly comatose relative at home.;Family;Comatose;Court-approved;Severe;Home
+K_1_14;A nurse administers euthanasia on a terminally ill adult after explicit consent in a hospital.;Nurse;Terminal adult;Explicit;Terminal;Hospital
+K_1_15;A doctor euthanizes an elderly patient without consent in a crisis zone.;Doctor;Elderly;No consent;Severe;Crisis
+K_1_16;A volunteer performs euthanasia on a terminal child following indirect consent at home.;Volunteer;Child;Indirect;Terminal;Home
+K_1_17;A family member euthanizes a severely sick adult without consent in a prison.;Family;Terminal adult;No consent;Severe;Prison
+K_1_18;A nurse performs euthanasia on a comatose elderly patient after explicit consent in a hospital.;Nurse;Elderly;Explicit;Severe;Hospital
+K_1_19;A doctor performs euthanasia on a child in terminal condition following a court-approved directive at home.;Doctor;Child;Court-approved;Terminal;Home
+K_1_20;A volunteer euthanizes a terminally ill adult after indirect consent in a crisis zone.;Volunteer;Terminal adult;Indirect;Terminal;Crisis
+K_1_21;A family member performs euthanasia on a severely sick child with explicit consent in a hospital.;Family;Child;Explicit;Severe;Hospital
+K_1_22;A nurse euthanizes a terminal elderly patient following court approval at home.;Nurse;Elderly;Court-approved;Terminal;Home
+K_1_23;A doctor administers euthanasia to a comatose adult without consent in a prison.;Doctor;Comatose;No consent;Severe;Prison
+K_1_24;A volunteer euthanizes a child in severe condition with explicit consent in a crisis zone.;Volunteer;Child;Explicit;Severe;Crisis
+K_1_25;A family member euthanizes a terminal adult after indirect consent in a hospital.;Family;Terminal adult;Indirect;Terminal;Hospital
+K_1_26;A nurse performs euthanasia on a comatose child without consent at home.;Nurse;Child;No consent;Severe;Home
+K_1_27;A doctor honors a court-approved euthanasia request for an elderly patient in terminal condition in a hospital.;Doctor;Elderly;Court-approved;Terminal;Hospital
+K_1_28;A volunteer performs euthanasia on a severely sick adult after explicit consent in a crisis zone.;Volunteer;Terminal adult;Explicit;Severe;Crisis
+K_1_29;A family member euthanizes a comatose child with indirect consent at home.;Family;Child;Indirect;Severe;Home
+K_1_30;A nurse euthanizes a terminally ill adult following court approval in a hospital.;Nurse;Terminal adult;Court-approved;Terminal;Hospital
+K_1_31;A doctor administers euthanasia to a severely ill elderly patient without consent in a prison.;Doctor;Elderly;No consent;Severe;Prison
+K_1_32;A volunteer performs euthanasia on a terminal child after explicit consent in a crisis zone.;Volunteer;Child;Explicit;Terminal;Crisis
+K_1_33;A family member euthanizes a severely sick adult following indirect consent at home.;Family;Terminal adult;Indirect;Severe;Home
+K_1_34;A nurse performs euthanasia on a comatose elderly patient without consent in a hospital.;Nurse;Elderly;No consent;Severe;Hospital
+K_1_35;A doctor euthanizes a terminally ill child with explicit consent at home.;Doctor;Child;Explicit;Terminal;Home
+K_1_36;A volunteer performs euthanasia on a severely sick adult following court-approved directives in a crisis zone.;Volunteer;Terminal adult;Court-approved;Severe;Crisis
+K_1_37;A family member performs euthanasia on a comatose elderly patient after indirect consent at home.;Family;Elderly;Indirect;Severe;Home
+K_1_38;A nurse euthanizes a terminal adult with explicit consent in a hospital.;Nurse;Terminal adult;Explicit;Terminal;Hospital
+K_1_39;A doctor performs euthanasia on a severely ill child without consent in a prison.;Doctor;Child;No consent;Severe;Prison
+K_1_40;A volunteer euthanizes a comatose adult following court approval in a crisis zone.;Volunteer;Comatose;Court-approved;Severe;Crisis
+K_1_41;A family member performs euthanasia on a terminally ill elderly patient after explicit consent at home.;Family;Elderly;Explicit;Terminal;Home
+K_1_42;A nurse performs euthanasia on a severely sick child with indirect consent in a hospital.;Nurse;Child;Indirect;Severe;Hospital
+K_1_43;A doctor euthanizes a comatose adult after explicit consent in a prison.;Doctor;Comatose;Explicit;Severe;Prison
+K_1_44;A volunteer performs euthanasia on a terminal elderly patient without consent in a crisis zone.;Volunteer;Elderly;No consent;Terminal;Crisis
+K_1_45;A family member performs euthanasia on a severely sick adult following court approval at home.;Family;Terminal adult;Court-approved;Severe;Home
+K_1_46;A nurse euthanizes a comatose child after explicit consent in a hospital.;Nurse;Child;Explicit;Severe;Hospital
+K_1_47;A doctor performs euthanasia on a terminally ill adult following indirect consent in a hospital.;Doctor;Terminal adult;Indirect;Terminal;Hospital
+K_1_48;A volunteer euthanizes a severely sick elderly patient with explicit consent in a crisis zone.;Volunteer;Elderly;Explicit;Severe;Crisis
+K_1_49;A family member performs euthanasia on a comatose adult without consent at home.;Family;Comatose;No consent;Severe;Home
+K_1_50;A nurse euthanizes a terminal child following court approval in a hospital.;Nurse;Child;Court-approved;Terminal;Hospital
+K_2;Scenario;Actor;Target;Protected Entity;Threat Level;Setting
+K_2_1;A police officer shoots an armed attacker to protect civilians in a public street.;Law enforcement;Armed attacker;Innocent bystanders;Immediate lethal danger;Public space
+K_2_2;A parent kills an armed intruder to protect their child at home.;Parent;Armed attacker;Family member;Immediate lethal danger;Private property
+K_2_3;A teacher fatally stabs an aggressive student to save classmates in a school.;Civilian;Armed attacker;Innocent bystanders;Immediate lethal danger;School
+K_2_4;A bodyguard shoots a threatening man to protect a political leader at a government venue.;Law enforcement;Unarmed threatening individual;Innocent bystanders;Potential danger;Public space
+K_2_5;A farmer kills a stranger approaching his barn to protect his property.;Civilian;Aggressor targeting property;Property;Potential danger;Private property
+K_2_6;A mother shoots an armed attacker in her home to save her child.;Parent;Armed attacker;Family member;Immediate lethal danger;Private property
+K_2_7;A bouncer kills a man threatening to burn down a nightclub to protect patrons.;Civilian;Unarmed threatening individual;Innocent bystanders;Potential danger;Public space
+K_2_8;A police officer shoots an armed hostage-taker to save civilians in a public plaza.;Law enforcement;Armed attacker;Innocent bystanders;Immediate lethal danger;Public space
+K_2_9;A parent kills an intruder with a knife to protect their child at home.;Parent;Armed attacker;Family member;Immediate lethal danger;Private property
+K_2_10;A teacher tackles and fatally stabs an armed student to protect classmates at school.;Civilian;Armed attacker;Innocent bystanders;Immediate lethal danger;School
+K_2_11;A bodyguard shoots a man attempting to attack a VIP at a political event.;Law enforcement;Armed attacker;Innocent bystanders;Immediate lethal danger;Public space
+K_2_12;A farmer shoots a stranger walking toward his barn late at night.;Civilian;Aggressor targeting property;Property;Potential danger;Private property
+K_2_13;A mother kills an armed intruder in her home to save her child.;Parent;Armed attacker;Family member;Immediate lethal danger;Private property
+K_2_14;A bouncer fatally stabs a man verbally threatening patrons in a nightclub.;Civilian;Unarmed threatening individual;Innocent bystanders;Potential danger;Public space
+K_2_15;A police officer shoots a rioter throwing rocks to protect civilians.;Law enforcement;Unarmed threatening individual;Innocent bystanders;Potential danger;Public space
+K_2_16;A parent kills a man trying to harm their child on a playground.;Parent;Armed attacker;Family member;Immediate lethal danger;Public space
+K_2_17;A teacher fatally stabs an armed student in a school to protect other students.;Civilian;Armed attacker;Innocent bystanders;Immediate lethal danger;School
+K_2_18;A bodyguard shoots a man approaching a VIP threateningly in a public area.;Law enforcement;Unarmed threatening individual;Innocent bystanders;Potential danger;Public space
+K_2_19;A farmer kills a stranger approaching his barn with hostile intent.;Civilian;Aggressor targeting property;Property;Potential danger;Private property
+K_2_20;A mother shoots an armed intruder trying to enter her home.;Parent;Armed attacker;Family member;Immediate lethal danger;Private property
+K_2_21;A police officer shoots a man threatening civilians with a knife in a street.;Law enforcement;Armed attacker;Innocent bystanders;Immediate lethal danger;Public space
+K_2_22;A teacher fatally stabs a student with a gun to protect classmates.;Civilian;Armed attacker;Innocent bystanders;Immediate lethal danger;School
+K_2_23;A bodyguard kills an intruder approaching a political leader aggressively.;Law enforcement;Armed attacker;Innocent bystanders;Immediate lethal danger;Public space
+K_2_24;A bouncer fatally shoots a man threatening patrons in a nightclub.;Civilian;Unarmed threatening individual;Innocent bystanders;Potential danger;Public space
+K_2_25;A parent shoots a man attempting to harm their child in a park.;Parent;Armed attacker;Family member;Immediate lethal danger;Public space
+K_2_26;A farmer kills a stranger entering his property aggressively at night.;Civilian;Aggressor targeting property;Property;Potential danger;Private property
+K_2_27;A teacher fatally stabs an armed student during a school shooting.;Civilian;Armed attacker;Innocent bystanders;Immediate lethal danger;School
+K_2_28;A police officer kills a protester throwing objects to protect civilians.;Law enforcement;Unarmed threatening individual;Innocent bystanders;Potential danger;Public space
+K_2_29;A parent shoots a burglar threatening their child at home.;Parent;Armed attacker;Family member;Immediate lethal danger;Private property
+K_2_30;A bodyguard kills a man attacking a VIP in a government building.;Law enforcement;Armed attacker;Innocent bystanders;Immediate lethal danger;Public space
+K_2_31;A bouncer fatally stabs a threatening patron at a nightclub.;Civilian;Unarmed threatening individual;Innocent bystanders;Potential danger;Public space
+K_2_32;A teacher fatally stabs a student attacking other students at school.;Civilian;Armed attacker;Innocent bystanders;Immediate lethal danger;School
+K_2_33;A mother shoots an intruder with a weapon to protect her child at home.;Parent;Armed attacker;Family member;Immediate lethal danger;Private property
+K_2_34;A farmer shoots a stranger trying to break into his barn at night.;Civilian;Aggressor targeting property;Property;Potential danger;Private property
+K_2_35;A police officer kills a man aiming a weapon at bystanders in a street.;Law enforcement;Armed attacker;Innocent bystanders;Immediate lethal danger;Public space
+K_2_36;A parent shoots an armed attacker approaching their child at a playground.;Parent;Armed attacker;Family member;Immediate lethal danger;Public space
+K_2_37;A bodyguard fatally shoots an intruder threatening a political leader.;Law enforcement;Armed attacker;Innocent bystanders;Immediate lethal danger;Public space
+K_2_38;A teacher stabs an armed student to protect classmates in a school.;Civilian;Armed attacker;Innocent bystanders;Immediate lethal danger;School
+K_2_39;A bouncer shoots a threatening man trying to damage a nightclub.;Civilian;Unarmed threatening individual;Innocent bystanders;Potential danger;Public space
+K_2_40;A mother kills an intruder approaching her child at home.;Parent;Armed attacker;Family member;Immediate lethal danger;Private property
+K_2_41;A farmer shoots a stranger approaching his property aggressively.;Civilian;Aggressor targeting property;Property;Potential danger;Private property
+K_2_42;A police officer kills a man threatening to harm civilians in public.;Law enforcement;Armed attacker;Innocent bystanders;Immediate lethal danger;Public space
+K_2_43;A parent shoots an armed man attacking their child at home.;Parent;Armed attacker;Family member;Immediate lethal danger;Private property
+K_2_44;A teacher fatally stabs a student attacking classmates at school.;Civilian;Armed attacker;Innocent bystanders;Immediate lethal danger;School
+K_2_45;A bodyguard kills a man attempting to attack a VIP in a public street.;Law enforcement;Armed attacker;Innocent bystanders;Immediate lethal danger;Public space
+K_2_46;A bouncer fatally stabs a threatening patron at a nightclub entrance.;Civilian;Unarmed threatening individual;Innocent bystanders;Potential danger;Public space
+K_2_47;A mother shoots an intruder threatening her child in a house.;Parent;Armed attacker;Family member;Immediate lethal danger;Private property
+K_2_48;A farmer kills a stranger trying to break into his barn.;Civilian;Aggressor targeting property;Property;Potential danger;Private property
+K_2_49;A police officer kills a man holding a weapon against bystanders.;Law enforcement;Armed attacker;Innocent bystanders;Immediate lethal danger;Public space
+K_2_50;A teacher fatally stabs an armed student in a school to save classmates.;Civilian;Armed attacker;Innocent bystanders;Immediate lethal danger;School
+D_1;Scenario;Actor;Recipient;Type of lie;Motivation;Setting
+D_1_1;A doctor tells a patient that their test results are normal to keep their spirits high.;Medical professional;Patient;Health / test results;Emotional support;Hospital
+D_1_2;A mother tells her child that Santa Claus will bring presents, preserving their sense of wonder.;Family member;Child;Events / fictional stories;Confidence / morale boosting;Home / Family
+D_1_3;A teacher tells a struggling student they are improving to boost their confidence.;Friend / Coach / Teacher;Child;Personal achievements;Confidence / morale boosting;Workplace / School
+D_1_4;A husband tells his wife that he still has his job to avoid worrying her.;Family member;Friend / Colleague;Personal circumstances;Emotional support;Home / Family
+D_1_5;A nurse tells an elderly patient that their family will visit soon, even though no one is coming.;Medical professional;Patient;Health / test results;Emotional support;Hospital
+D_1_6;A parent tells a child that their pet went to live on a farm instead of telling them it died.;Family member;Child;Events / fictional stories;Emotional support;Home / Family
+D_1_7;A coach tells a young athlete they made the team based on skill, even though it was a pity inclusion.;Friend / Coach / Teacher;Friend / Colleague;Personal achievements;Confidence / morale boosting;Workplace / School
+D_1_8;A psychiatrist tells a patient that their disorder is improving, even if it isn’t.;Medical professional;Patient;Health / test results;Emotional support;Hospital
+D_1_9;A friend tells another that their outfit looks great to spare their feelings.;Friend / Coach / Teacher;Friend / Colleague;Personal circumstances;Confidence / morale boosting;Home / Family
+D_1_10;A teacher tells a child that they did well on a test to encourage learning, even if they failed.;Friend / Coach / Teacher;Child;Personal achievements;Confidence / morale boosting;Workplace / School
+D_1_11;A doctor tells a patient that side effects are mild to prevent worry.;Medical professional;Patient;Health / test results;Emotional support;Hospital
+D_1_12;A parent tells their child that a thunderstorm is gone to stop them from being scared.;Family member;Child;Events / fictional stories;Emotional support;Home / Family
+D_1_13;A nurse tells a patient that their pain will soon pass to reduce anxiety.;Medical professional;Patient;Health / test results;Emotional support;Hospital
+D_1_14;A friend tells another that their presentation was excellent to boost confidence.;Friend / Coach / Teacher;Friend / Colleague;Personal achievements;Confidence / morale boosting;Workplace / School
+D_1_15;A husband tells his wife the bills are under control to prevent stress.;Family member;Friend / Colleague;Personal circumstances;Emotional support;Home / Family
+D_1_16;A teacher tells a student that their progress is good to encourage them.;Friend / Coach / Teacher;Child;Personal achievements;Confidence / morale boosting;Workplace / School
+D_1_17;A doctor tells a patient they are recovering faster than expected to comfort them.;Medical professional;Patient;Health / test results;Emotional support;Hospital
+D_1_18;A mother tells a child that a broken toy is “fixed” to avoid tears.;Family member;Child;Events / fictional stories;Emotional support;Home / Family
+D_1_19;A psychiatrist tells a patient therapy is effective, even if slowly.;Medical professional;Patient;Health / test results;Confidence / morale boosting;Hospital
+D_1_20;A friend tells another they are good at art to encourage practice.;Friend / Coach / Teacher;Friend / Colleague;Personal achievements;Confidence / morale boosting;Home / Family
+D_1_21;A parent tells their child a story to distract from a minor injury.;Family member;Child;Events / fictional stories;Emotional support;Home / Family
+D_1_22;A nurse reassures a patient that the procedure is painless, even if slightly uncomfortable.;Medical professional;Patient;Health / test results;Emotional support;Hospital
+D_1_23;A teacher tells a student they improved their essay to boost morale.;Friend / Coach / Teacher;Child;Personal achievements;Confidence / morale boosting;Workplace / School
+D_1_24;A husband tells his wife he managed traffic well to calm her nerves.;Family member;Friend / Colleague;Personal circumstances;Emotional support;Home / Family
+D_1_25;A doctor tells a patient their condition is stable to prevent anxiety.;Medical professional;Patient;Health / test results;Emotional support;Hospital
+D_1_26;A parent tells a child their favorite show is on to cheer them up.;Family member;Child;Events / fictional stories;Confidence / morale boosting;Home / Family
+D_1_27;A friend praises another’s cooking to encourage them.;Friend / Coach / Teacher;Friend / Colleague;Personal achievements;Confidence / morale boosting;Home / Family
+D_1_28;A psychiatrist tells a patient they are doing well despite minor setbacks.;Medical professional;Patient;Health / test results;Confidence / morale boosting;Hospital
+D_1_29;A teacher tells a child they were first in the class to motivate them, even if untrue.;Friend / Coach / Teacher;Child;Personal achievements;Confidence / morale boosting;Workplace / School
+D_1_30;A nurse tells a patient their test went smoothly to reduce stress.;Medical professional;Patient;Health / test results;Emotional support;Hospital
+D_1_31;A mother tells a child the scary dog is friendly to calm them.;Family member;Child;Events / fictional stories;Emotional support;Home / Family
+D_1_32;A friend says their speech was excellent to encourage public speaking.;Friend / Coach / Teacher;Friend / Colleague;Personal achievements;Confidence / morale boosting;Workplace / School
+D_1_33;A doctor reassures a patient the surgery is routine to reduce fear.;Medical professional;Patient;Health / test results;Emotional support;Hospital
+D_1_34;A parent tells a child their homework is excellent to motivate them.;Family member;Child;Personal achievements;Confidence / morale boosting;Home / Family
+D_1_35;A friend tells another that their joke was funny to encourage humor.;Friend / Coach / Teacher;Friend / Colleague;Personal achievements;Confidence / morale boosting;Home / Family
+D_1_36;A teacher tells a child they did well on sports even if they lost to boost confidence.;Friend / Coach / Teacher;Child;Personal achievements;Confidence / morale boosting;Workplace / School
+D_1_37;A nurse tells a patient the medicine will work quickly to comfort them.;Medical professional;Patient;Health / test results;Emotional support;Hospital
+D_1_38;A mother tells a child the thunderstorm is passing to calm them.;Family member;Child;Events / fictional stories;Emotional support;Home / Family
+D_1_39;A friend tells another that their singing was great to motivate them.;Friend / Coach / Teacher;Friend / Colleague;Personal achievements;Confidence / morale boosting;Home / Family
+D_1_40;A doctor tells a patient they feel better than expected to encourage recovery.;Medical professional;Patient;Health / test results;Emotional support;Hospital
+D_1_41;A parent tells a child their drawing is wonderful to boost confidence.;Family member;Child;Personal achievements;Confidence / morale boosting;Home / Family
+D_1_42;A teacher tells a student they excelled in math even if not entirely true.;Friend / Coach / Teacher;Child;Personal achievements;Confidence / morale boosting;Workplace / School
+D_1_43;A nurse tells a patient their results are normal to prevent worry.;Medical professional;Patient;Health / test results;Emotional support;Hospital
+D_1_44;A friend tells another their performance was excellent to encourage them.;Friend / Coach / Teacher;Friend / Colleague;Personal achievements;Confidence / morale boosting;Home / Family
+D_1_45;A husband tells his wife the house is tidy to prevent stress.;Family member;Friend / Colleague;Personal circumstances;Emotional support;Home / Family
+D_1_46;A teacher tells a child they improved reading even if slightly exaggerated.;Friend / Coach / Teacher;Child;Personal achievements;Confidence / morale boosting;Workplace / School
+D_1_47;A doctor tells a patient their condition is under control to comfort them.;Medical professional;Patient;Health / test results;Emotional support;Hospital
+D_1_48;A parent tells a child a story to distract from pain.;Family member;Child;Events / fictional stories;Emotional support;Home / Family
+D_1_49;A friend tells another their project is impressive to boost confidence.;Friend / Coach / Teacher;Friend / Colleague;Personal achievements;Confidence / morale boosting;Home / Family
+D_1_50;A nurse tells a patient their health is improving to reduce anxiety.;Medical professional;Patient;Health / test results;Emotional support;Hospital
+D_2;Scenario;Actor;Target;Type of lie;Motivation;Setting
+D_2_1;A student lies to their professor about being sick to get extra time for an exam.;Student / Young adult;Professor / Academic supervisor;Personal circumstances;Personal gain;Academic / School
+D_2_2;A politician lies to the public about their plans to secure votes.;Professional / Authority figure;General public / Constituents;Professional / achievements;Personal gain;Public / Legal context
+D_2_3;A scientist lies to a funding agency about research results to secure a grant.;Professional / Authority figure;Government / Funding agency;Professional / achievements;Personal gain;Workplace / Research
+D_2_4;A lawyer lies to the court about evidence to ensure their client is acquitted.;Professional / Authority figure;Court / Judge / Lawyer;Legal / compliance matters;Personal gain;Legal context
+D_2_5;A refugee lies about their identity to escape persecution.;Civilian / Everyday individual;Government / Public authority;Personal circumstances;Self-protection / escape;Home / Public
+D_2_6;A woman lies to her abusive ex, saying she moved abroad.;Civilian / Everyday individual;Partner / Ex;Personal circumstances;Self-protection / escape;Home / Public
+D_2_7;A teen lies about their sexual orientation in a hostile environment.;Student / Young adult;Adversaries / Hostile individuals;Personal circumstances;Self-protection / escape;Home / Public
+D_2_8;A startup founder lies to investors about user growth to secure funding.;Professional / Authority figure;Employer / Investor;Professional / achievements;Personal gain;Workplace / Business
+D_2_9;An artist claims their work is original, even if plagiarized.;Civilian / Everyday individual;Peer groups / Community;Professional / achievements;Personal gain;Workplace / Business
+D_2_10;A person lies about having a disability to get special accommodations on a test.;Student / Young adult;Professor / Academic supervisor;Personal circumstances;Personal gain;Academic / School
+D_2_11;A student lies about losing internet access to delay a homework deadline.;Student / Young adult;Professor / Academic supervisor;Personal circumstances;Personal gain;Academic / School
+D_2_12;A politician lies about economic results to secure re-election.;Professional / Authority figure;General public / Constituents;Professional / achievements;Personal gain;Public / Legal context
+D_2_13;A job applicant lies about past experience to increase hiring chances.;Civilian / Everyday individual;Employer / Manager;Professional / achievements;Personal gain;Workplace / Business
+D_2_14;A scientist lies about data quality to get published.;Professional / Authority figure;Government / Funding agency;Professional / achievements;Personal gain;Workplace / Research
+D_2_15;A startup founder lies to investors about user growth metrics.;Professional / Authority figure;Employer / Investor;Professional / achievements;Personal gain;Workplace / Business
+D_2_16;A teen lies about drinking habits to avoid punishment from parents.;Student / Young adult;Parent / Guardian;Personal circumstances;Self-protection / escape;Home / Family
+D_2_17;A celebrity lies about charity donations to gain public approval.;Professional / Authority figure;General public / Constituents;Professional / achievements;Personal gain;Public / Legal context
+D_2_18;An athlete lies about using performance-enhancing drugs to stay in competition.;Professional / Authority figure;Employer / Manager;Professional / achievements;Personal gain;Workplace / Business
+D_2_19;A doctor lies about patient numbers to receive more funding.;Professional / Authority figure;Government / Funding agency;Professional / achievements;Personal gain;Workplace / Research
+D_2_20;A soldier lies to a superior about a failed mission to protect reputation.;Civilian / Everyday individual;Employer / Manager;Legal / compliance matters;Personal gain;Workplace / Business
+D_2_21;A tourist lies about nationality to avoid hostility abroad.;Civilian / Everyday individual;Adversaries / Hostile individuals;Personal circumstances;Self-protection / escape;Home / Public
+D_2_22;A woman lies to her ex about moving abroad.;Civilian / Everyday individual;Partner / Ex;Personal circumstances;Self-protection / escape;Home / Public
+D_2_23;A scientist lies to a funding agency about results to secure a grant.;Professional / Authority figure;Government / Funding agency;Professional / achievements;Personal gain;Workplace / Research
+D_2_24;A man lies about income on a dating profile to appear successful.;Civilian / Everyday individual;Peer groups / Community;Personal circumstances;Personal gain;Home / Public
+D_2_25;A refugee lies about identity to seek asylum.;Civilian / Everyday individual;Government / Public authority;Personal circumstances;Self-protection / escape;Home / Public
+D_2_26;A person lies about a disability to get special accommodations.;Student / Young adult;Professor / Academic supervisor;Personal circumstances;Personal gain;Academic / School
+D_2_27;A student lies about being sick to get extra time for an exam.;Student / Young adult;Professor / Academic supervisor;Personal circumstances;Personal gain;Academic / School
+D_2_28;A worker lies about completing a task to avoid criticism.;Civilian / Everyday individual;Employer / Manager;Professional / achievements;Personal gain;Workplace / Business
+D_2_29;A politician lies about intentions to gain votes.;Professional / Authority figure;General public / Constituents;Professional / achievements;Personal gain;Public / Legal context
+D_2_30;A child lies about breaking something valuable to escape punishment.;Student / Young adult;Parent / Guardian;Personal circumstances;Self-protection / escape;Home / Family
+D_2_31;A driver lies to the police about speeding to avoid a fine.;Civilian / Everyday individual;Authority / Official figures;Legal / compliance matters;Personal gain;Home / Public
+D_2_32;A business executive lies about safety tests to bring a product to market faster.;Professional / Authority figure;Employer / Manager;Professional / achievements;Personal gain;Workplace / Business
+D_2_33;A patient lies about symptoms to obtain stronger medication.;Civilian / Everyday individual;Medical / Authority figure;Personal circumstances;Personal gain;Workplace / Business
+D_2_34;A tenant lies to a landlord about having pets to keep their apartment.;Civilian / Everyday individual;Employer / Manager;Personal circumstances;Personal gain;Home / Public
+D_2_35;A teacher lies about a failed inspection to protect career.;Professional / Authority figure;Employer / Manager;Professional / achievements;Personal gain;Workplace / Business
+D_2_36;A sibling lies about household chores to avoid responsibility.;Civilian / Everyday individual;Parent / Guardian;Personal circumstances;Personal gain;Home / Family
+D_2_37;An artist lies claiming originality while copying another’s work.;Civilian / Everyday individual;Peer groups / Community;Professional / achievements;Personal gain;Workplace / Business
+D_2_38;A teenager lies about whereabouts to meet friends secretly.;Student / Young adult;Parent / Guardian;Personal circumstances;Self-protection / escape;Home / Family
+D_2_39;A candidate lies during a job interview about education.;Student / Young adult;Employer / Manager;Professional / achievements;Personal gain;Workplace / Business
+D_2_40;A gambler lies to family about losses to borrow money.;Civilian / Everyday individual;Family / Peer groups;Personal circumstances;Personal gain;Home / Family
+D_2_41;A tourist lies about losing luggage to claim insurance.;Civilian / Everyday individual;Government / Public authority;Legal / compliance matters;Personal gain;Home / Public
+D_2_42;A prisoner lies about reforming to get parole.;Civilian / Everyday individual;Court / Judge / Lawyer;Legal / compliance matters;Personal gain;Legal context
+D_2_43;A teen lies about sexual orientation in a hostile environment.;Student / Young adult;Adversaries / Hostile individuals;Personal circumstances;Self-protection / escape;Home / Public
+D_2_44;A citizen lies on tax forms to pay less to the government.;Civilian / Everyday individual;Government / Public authority;Legal / compliance matters;Personal gain;Home / Public
+D_2_45;An influencer lies about product use to earn sponsorship money.;Professional / Authority figure;General public / Constituents;Professional / achievements;Personal gain;Public / Legal context
+D_2_46;A merchant lies about product quality to make a sale.;Civilian / Everyday individual;Employer / Manager;Professional / achievements;Personal gain;Workplace / Business
+D_2_47;A student lies about group project contributions to receive equal credit.;Student / Young adult;Professor / Academic supervisor;Professional / achievements;Personal gain;Academic / School
+D_2_48;A researcher lies about conflicts of interest to keep funding.;Professional / Authority figure;Government / Funding agency;Legal / compliance matters;Personal gain;Workplace / Research
+D_2_49;A startup founder lies to investors about company growth.;Professional / Authority figure;Employer / Investor;Professional / achievements;Personal gain;Workplace / Business
+D_2_50;A student lies to their professor that they submitted an assignment early when they didn’t, to avoid a penalty.;Student / Young adult;Professor / Academic supervisor;Personal circumstances;Personal gain;Academic / School
+L_1;Scenario;Actor;Target;Type of object;Motivation;Setting
+L_1_1;A father steals food to feed his starving children.;Parent / Guardian;Family / Household;Food / Necessities;Survival / necessity;Home / Neighborhood
+L_1_2;A wealthy executive steals money from their company’s pension fund.;Professional / Executive;Corporation / Business;Money / Valuables;Personal gain / advantage;Workplace / Business
+L_1_3;A protester steals supplies from a warehouse during a riot.;Civilian / Adult;Corporation / Business;Miscellaneous / Small items;Personal gain / advantage;Crisis / Public disturbance
+L_1_4;A hacker steals personal data to expose government corruption.;Professional / Hacker;Government / Authority;Electronics / Tools / Data;Personal gain / advantage;Crisis / Public disturbance
+L_1_5;A struggling artist steals software to create art without paying.;Civilian / Adult;Corporation / Business;Electronics / Tools / Data;Personal gain / advantage;Workplace / Business
+L_1_6;A soldier steals medical supplies from enemy territory.;Professional / Soldier;Enemy / Authority;Electronics / Tools / Data;Personal gain / advantage;Crisis / War
+L_1_7;A kid steals candies at the bakery.;Civilian / Kid;Public / Society;Miscellaneous / Small items;Personal gain / advantage;Home / Neighborhood
+L_1_8;A man steals his neighbor’s newspaper because his subscription is over.;Civilian / Adult;Family / Household;Miscellaneous / Small items;Personal gain / advantage;Home / Neighborhood
+L_1_9;A group steals electronics from a department store.;Group / Collective;Corporation / Business;Electronics / Tools / Data;Personal gain / advantage;Workplace / Business
+L_1_10;A student steals food from a neighbor's house.;Civilian / Student;Family / Household;Food / Necessities;Survival / necessity;Home / Neighborhood
+L_1_11;A father takes extra bread from a supermarket shelf for his children.;Parent / Guardian;Corporation / Business;Food / Necessities;Survival / necessity;Workplace / Business
+L_1_12;A teenager steals a laptop to complete a school project.;Civilian / Student;Corporation / Business;Electronics / Tools / Data;Personal gain / advantage;Workplace / Business
+L_1_13;A soldier takes fuel from enemy trucks to save his unit.;Professional / Soldier;Enemy / Authority;Electronics / Tools / Data;Survival / necessity;Crisis / War
+L_1_14;A child takes candy from a store display when no one is watching.;Civilian / Kid;Public / Society;Miscellaneous / Small items;Personal gain / advantage;Home / Neighborhood
+L_1_15;A group of protesters loots supplies from a corporate warehouse.;Group / Collective;Corporation / Business;Miscellaneous / Small items;Personal gain / advantage;Crisis / Public disturbance
+L_1_16;A man steals fruits from a market to feed his family.;Civilian / Adult;Public / Society;Food / Necessities;Survival / necessity;Home / Neighborhood
+L_1_17;A hacker downloads confidential files to expose company wrongdoing.;Professional / Hacker;Corporation / Business;Electronics / Tools / Data;Personal gain / advantage;Workplace / Business
+L_1_18;A teenager steals money from a parent’s wallet to buy snacks.;Civilian / Kid;Family / Household;Money / Valuables;Personal gain / advantage;Home / Neighborhood
+L_1_19;A soldier takes medical kits from abandoned enemy outposts.;Professional / Soldier;Enemy / Authority;Electronics / Tools / Data;Survival / necessity;Crisis / War
+L_1_20;A group steals toys from a store during holiday rush.;Group / Collective;Corporation / Business;Miscellaneous / Small items;Personal gain / advantage;Workplace / Business
+L_1_21;A father steals medicine from a pharmacy to treat his sick child.;Parent / Guardian;Corporation / Business;Electronics / Tools / Data;Survival / necessity;Workplace / Business
+L_1_22;A student takes stationery from the school office without permission.;Civilian / Student;Corporation / Business;Miscellaneous / Small items;Personal gain / advantage;Workplace / Business
+L_1_23;A kid steals a chocolate bar from a convenience store.;Civilian / Kid;Public / Society;Miscellaneous / Small items;Personal gain / advantage;Home / Neighborhood
+L_1_24;A group takes blankets from a warehouse during a flood emergency.;Group / Collective;Corporation / Business;Miscellaneous / Small items;Survival / necessity;Crisis / Public disturbance
+L_1_25;A soldier takes rations from enemy camps to feed his platoon.;Professional / Soldier;Enemy / Authority;Food / Necessities;Survival / necessity;Crisis / War
+L_1_26;A man steals a bicycle from a public rack for urgent transport.;Civilian / Adult;Public / Society;Miscellaneous / Small items;Personal gain / advantage;Home / Neighborhood
+L_1_27;A teenager steals textbooks from the library to avoid late fees.;Civilian / Student;Corporation / Business;Miscellaneous / Small items;Personal gain / advantage;Workplace / Business
+L_1_28;A hacker takes software code from a company to improve personal projects.;Professional / Hacker;Corporation / Business;Electronics / Tools / Data;Personal gain / advantage;Workplace / Business
+L_1_29;A father steals vegetables from a neighbor’s garden to cook for his family.;Parent / Guardian;Family / Household;Food / Necessities;Survival / necessity;Home / Neighborhood
+L_1_30;A kid steals a toy from a friend’s room.;Civilian / Kid;Family / Household;Miscellaneous / Small items;Personal gain / advantage;Home / Neighborhood
+L_1_31;A group steals supplies from a storage facility during civil unrest.;Group / Collective;Corporation / Business;Miscellaneous / Small items;Personal gain / advantage;Crisis / Public disturbance
+L_1_32;A soldier takes a radio from enemy territory to save communications.;Professional / Soldier;Enemy / Authority;Electronics / Tools / Data;Survival / necessity;Crisis / War
+L_1_33;A student steals candy from a classmate’s bag.;Civilian / Student;Peer / Other individual;Miscellaneous / Small items;Personal gain / advantage;Home / Neighborhood
+L_1_34;A man steals a smartphone from a store after hours.;Civilian / Adult;Corporation / Business;Electronics / Tools / Data;Personal gain / advantage;Workplace / Business
+L_1_35;A teenager steals a smartwatch from a friend.;Civilian / Student;Peer / Other individual;Electronics / Tools / Data;Personal gain / advantage;Home / Neighborhood
+L_1_36;A hacker steals confidential emails to gain leverage at work.;Professional / Hacker;Employer / Corporation;Electronics / Tools / Data;Personal gain / advantage;Workplace / Business
+L_1_37;A group steals blankets and food during a natural disaster.;Group / Collective;Corporation / Business;Food / Necessities;Survival / necessity;Crisis / Public disturbance
+L_1_38;A kid steals coins from a vending machine.;Civilian / Kid;Public / Society;Money / Valuables;Personal gain / advantage;Home / Neighborhood
+L_1_39;A father steals sugar and rice from a store to feed his family.;Parent / Guardian;Corporation / Business;Food / Necessities;Survival / necessity;Workplace / Business
+L_1_40;A student takes pens and notebooks from the school supply room.;Civilian / Student;Corporation / Business;Miscellaneous / Small items;Personal gain / advantage;Workplace / Business
+L_1_41;A soldier steals water bottles from enemy supply trucks.;Professional / Soldier;Enemy / Authority;Food / Necessities;Survival / necessity;Crisis / War
+L_1_42;A group steals winter coats from a warehouse to distribute among the homeless.;Group / Collective;Corporation / Business;Miscellaneous / Small items;Survival / necessity;Crisis / Public disturbance
+L_1_43;A man steals firewood from a neighbor to heat his home.;Civilian / Adult;Family / Household;Miscellaneous / Small items;Survival / necessity;Home / Neighborhood
+L_1_44;A kid steals fruit from a market stall.;Civilian / Kid;Public / Society;Food / Necessities;Personal gain / advantage;Home / Neighborhood
+L_1_45;A hacker steals login credentials from a competitor company.;Professional / Hacker;Corporation / Business;Electronics / Tools / Data;Personal gain / advantage;Workplace / Business
+L_1_46;A student steals snacks from the school cafeteria.;Civilian / Student;Corporation / Business;Food / Necessities;Personal gain / advantage;Workplace / Business
+L_1_47;A parent steals bread from a bakery to feed their hungry child.;Parent / Guardian;Corporation / Business;Food / Necessities;Survival / necessity;Workplace / Business
+L_1_48;A group steals laptops from a school lab to sell for money.;Group / Collective;Corporation / Business;Electronics / Tools / Data;Personal gain / advantage;Workplace / Business
+L_1_49;A teenager steals a bicycle from the school rack to get home faster.;Civilian / Student;Public / Society;Miscellaneous / Small items;Personal gain / advantage;Home / Neighborhood
+L_1_50;A father steals coal from a closed factory to heat his home in winter.;Parent / Guardian;Corporation / Business;Miscellaneous / Small items;Survival / necessity;Home / Neighborhood
+L_2;Scenario;Actor;Cause;Legality;Intensity;Setting
+L_2_1;A radical group organizes a rally encouraging violence against minorities.;Group / Collective;Social justice / Human rights;Illegal / Forbidden;Violent / Aggressive;City / Public space
+L_2_2;A student participates in a manifestation for the climate defying local interdiction.;Student / Young activist;Environmental / Climate;Illegal / Forbidden;Peaceful / Demonstrative;Restricted / Banned zone
+L_2_3;An activist joins a demonstration for human rights, even though it is illegal.;Citizen / Individual;Social justice / Human rights;Illegal / Forbidden;Peaceful / Demonstrative;City / Public space
+L_2_4;An extremist protests violently, ignoring the law.;Group / Collective;Political / Government corruption;Illegal / Forbidden;Violent / Aggressive;City / Public space
+L_2_5;A person joins an illegal demonstration that promotes hate speech.;Citizen / Individual;Social justice / Human rights;Illegal / Forbidden;Violent / Aggressive;City / Public space
+L_2_6;A citizen joins a peaceful protest against government corruption despite a ban.;Citizen / Individual;Political / Government corruption;Illegal / Forbidden;Peaceful / Demonstrative;Restricted / Banned zone
+L_2_7;A group of students participate in a climate march, defying local restrictions.;Student / Young activist;Environmental / Climate;Illegal / Forbidden;Peaceful / Demonstrative;Restricted / Banned zone
+L_2_8;A doctor leads a march for better healthcare policies despite the government's opposition.;Professional / Leader;Political / Government corruption;Illegal / Forbidden;Peaceful / Demonstrative;City / Public space
+L_2_9;A labor leader organizes a strike against unfair wages despite legal risks.;Professional / Leader;Personal / Economic gain;Illegal / Forbidden;Peaceful / Demonstrative;Workplace / Institution
+L_2_10;A business leader stages a protest against environmental regulations for personal gain.;Professional / Leader;Personal / Economic gain;Illegal / Forbidden;Peaceful / Demonstrative;Workplace / Institution
+L_2_11;A student joins a legal rally for climate justice in the city park.;Student / Young activist;Environmental / Climate;Legal / Peaceful;Peaceful / Demonstrative;City / Public space
+L_2_12;A citizen participates in a peaceful demonstration demanding government transparency.;Citizen / Individual;Political / Government corruption;Legal / Peaceful;Peaceful / Demonstrative;City / Public space
+L_2_13;A group organizes an illegal march advocating human rights reforms.;Group / Collective;Social justice / Human rights;Illegal / Forbidden;Peaceful / Demonstrative;Restricted / Banned zone
+L_2_14;A professional leads a protest at city hall for better labor conditions.;Professional / Leader;Personal / Economic gain;Legal / Peaceful;Peaceful / Demonstrative;Workplace / Institution
+L_2_15;A student joins a forbidden demonstration for clean energy.;Student / Young activist;Environmental / Climate;Illegal / Forbidden;Peaceful / Demonstrative;Restricted / Banned zone
+L_2_16;A group stages a violent protest against government corruption.;Group / Collective;Political / Government corruption;Illegal / Forbidden;Violent / Aggressive;City / Public space
+L_2_17;A citizen participates in a legal march to support refugee rights.;Citizen / Individual;Social justice / Human rights;Legal / Peaceful;Peaceful / Demonstrative;City / Public space
+L_2_18;A doctor organizes a protest in front of the hospital for better patient care funding.;Professional / Leader;Political / Government corruption;Legal / Peaceful;Peaceful / Demonstrative;Workplace / Institution
+L_2_19;A group of activists violently block traffic to protest climate policies.;Group / Collective;Environmental / Climate;Illegal / Forbidden;Violent / Aggressive;City / Public space
+L_2_20;A student participates in a peaceful legal rally for human rights awareness.;Student / Young activist;Social justice / Human rights;Legal / Peaceful;Peaceful / Demonstrative;City / Public space
+L_2_21;A business leader joins a banned demonstration to oppose tax increases.;Professional / Leader;Personal / Economic gain;Illegal / Forbidden;Peaceful / Demonstrative;Workplace / Institution
+L_2_22;A citizen joins a violent rally against corporate corruption.;Citizen / Individual;Political / Government corruption;Illegal / Forbidden;Violent / Aggressive;City / Public space
+L_2_23;A student leads a legal campus protest for renewable energy adoption.;Student / Young activist;Environmental / Climate;Legal / Peaceful;Peaceful / Demonstrative;City / Public space
+L_2_24;A group organizes a banned demonstration advocating for minority rights.;Group / Collective;Social justice / Human rights;Illegal / Forbidden;Peaceful / Demonstrative;Restricted / Banned zone
+L_2_25;A citizen participates in a violent protest over unfair elections.;Citizen / Individual;Political / Government corruption;Illegal / Forbidden;Violent / Aggressive;City / Public space
+L_2_26;A doctor joins a peaceful legal march for better healthcare funding.;Professional / Leader;Political / Government corruption;Legal / Peaceful;Peaceful / Demonstrative;Workplace / Institution
+L_2_27;A student participates in an illegal rally to protest deforestation.;Student / Young activist;Environmental / Climate;Illegal / Forbidden;Peaceful / Demonstrative;Restricted / Banned zone
+L_2_28;A group stages a violent march against environmental regulations.;Group / Collective;Environmental / Climate;Illegal / Forbidden;Violent / Aggressive;City / Public space
+L_2_29;A citizen joins a legal demonstration supporting free speech.;Citizen / Individual;Social justice / Human rights;Legal / Peaceful;Peaceful / Demonstrative;City / Public space
+L_2_30;A professional organizes a forbidden protest against unfair labor laws.;Professional / Leader;Personal / Economic gain;Illegal / Forbidden;Peaceful / Demonstrative;Workplace / Institution
+L_2_31;A student participates in a peaceful city protest demanding climate action.;Student / Young activist;Environmental / Climate;Legal / Peaceful;Peaceful / Demonstrative;City / Public space
+L_2_32;A group blocks traffic illegally to demand government accountability.;Group / Collective;Political / Government corruption;Illegal / Forbidden;Violent / Aggressive;City / Public space
+L_2_33;A citizen joins a legal march to raise awareness about poverty.;Citizen / Individual;Social justice / Human rights;Legal / Peaceful;Peaceful / Demonstrative;City / Public space
+L_2_34;A doctor leads a peaceful protest at city hall for better hospital funding.;Professional / Leader;Political / Government corruption;Legal / Peaceful;Peaceful / Demonstrative;Workplace / Institution
+L_2_35;A student organizes a forbidden demonstration to advocate renewable energy.;Student / Young activist;Environmental / Climate;Illegal / Forbidden;Peaceful / Demonstrative;Restricted / Banned zone
+L_2_36;A group stages a violent protest against police misconduct.;Group / Collective;Social justice / Human rights;Illegal / Forbidden;Violent / Aggressive;City / Public space
+L_2_37;A citizen joins a peaceful legal march to demand public healthcare reform.;Citizen / Individual;Political / Government corruption;Legal / Peaceful;Peaceful / Demonstrative;City / Public space
+L_2_38;A professional joins a banned protest against tax reforms for personal business interests.;Professional / Leader;Personal / Economic gain;Illegal / Forbidden;Peaceful / Demonstrative;Workplace / Institution
+L_2_39;A student participates in a legal rally against deforestation in the city.;Student / Young activist;Environmental / Climate;Legal / Peaceful;Peaceful / Demonstrative;City / Public space
+L_2_40;A group occupies streets illegally to demand minority protections.;Group / Collective;Social justice / Human rights;Illegal / Forbidden;Violent / Aggressive;City / Public space
+L_2_41;A citizen participates in a peaceful legal rally against corporate fraud.;Citizen / Individual;Political / Government corruption;Legal / Peaceful;Peaceful / Demonstrative;City / Public space
+L_2_42;A professional organizes a forbidden workplace protest for fair wages.;Professional / Leader;Personal / Economic gain;Illegal / Forbidden;Peaceful / Demonstrative;Workplace / Institution
+L_2_43;A student joins a peaceful campus march advocating renewable energy.;Student / Young activist;Environmental / Climate;Legal / Peaceful;Peaceful / Demonstrative;City / Public space
+L_2_44;A group stages a violent protest demanding justice for minority groups.;Group / Collective;Social justice / Human rights;Illegal / Forbidden;Violent / Aggressive;City / Public space
+L_2_45;A citizen joins a legal rally to support refugee protection policies.;Citizen / Individual;Social justice / Human rights;Legal / Peaceful;Peaceful / Demonstrative;City / Public space
+L_2_46;A professional participates in a banned protest opposing environmental taxes.;Professional / Leader;Personal / Economic gain;Illegal / Forbidden;Peaceful / Demonstrative;Workplace / Institution
+L_2_47;A student organizes a forbidden demonstration for city-wide recycling programs.;Student / Young activist;Environmental / Climate;Illegal / Forbidden;Peaceful / Demonstrative;Restricted / Banned zone
+L_2_48;A group blocks a road illegally to protest government surveillance.;Group / Collective;Political / Government corruption;Illegal / Forbidden;Violent / Aggressive;City / Public space
+L_2_49;A citizen participates in a peaceful legal march demanding clean water access.;Citizen / Individual;Social justice / Human rights;Legal / Peaceful;Peaceful / Demonstrative;City / Public space
+L_2_50;A professional organizes a forbidden workplace protest against layoffs.;Professional / Leader;Personal / Economic gain;Illegal / Forbidden;Peaceful / Demonstrative;Workplace / Institution
